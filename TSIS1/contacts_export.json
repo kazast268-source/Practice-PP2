@@ -1,0 +1,102 @@
+[
+    {
+        "name": "Aktan Nurdaulet",
+        "email": "aktan@kbtu.kz",
+        "birthday": "2007-01-01",
+        "group": "Family",
+        "phones": [
+            "87012223344:mobile",
+            "3274455:home"
+        ]
+    },
+    {
+        "name": "Dmitry Volkov",
+        "email": "volkov@yandex.ru",
+        "birthday": "1985-01-30",
+        "group": "Work",
+        "phones": [
+            "87009998877:work"
+        ]
+    },
+    {
+        "name": "Elena",
+        "email": "elena@gmail.com",
+        "birthday": "None",
+        "group": "Friend",
+        "phones": [
+            null
+        ]
+    },
+    {
+        "name": "Mariya Ivanova",
+        "email": "masha@outlook.com",
+        "birthday": "1990-06-20",
+        "group": "Other",
+        "phones": [
+            "3216677:home"
+        ]
+    },
+    {
+        "name": "Zarina",
+        "email": "zarina@kbtu.kz",
+        "birthday": "None",
+        "group": "Family",
+        "phones": [
+            null
+        ]
+    },
+    {
+        "name": "Damir",
+        "email": "damir@work.kz",
+        "birthday": "None",
+        "group": "Work",
+        "phones": [
+            null
+        ]
+    },
+    {
+        "name": "Alisher",
+        "email": "alisher@mail.ru",
+        "birthday": "None",
+        "group": "Work",
+        "phones": [
+            null
+        ]
+    },
+    {
+        "name": "Aigerim Serikova",
+        "email": "aiga@google.com",
+        "birthday": "1998-11-25",
+        "group": "Friend",
+        "phones": [
+            "87771112233:mobile"
+        ]
+    },
+    {
+        "name": "John Doe",
+        "email": "john@example.com",
+        "birthday": "None",
+        "group": "Friend",
+        "phones": [
+            null
+        ]
+    },
+    {
+        "name": "Bauyrzhan Khan",
+        "email": "baha@mail.kz",
+        "birthday": "1992-04-12",
+        "group": "Family",
+        "phones": [
+            "87015554433:mobile"
+        ]
+    },
+    {
+        "name": "Sultan Bek",
+        "email": "sultan@kbtu.kz",
+        "birthday": "2005-09-15",
+        "group": "Family",
+        "phones": [
+            "87475550011:mobile"
+        ]
+    }
+]
